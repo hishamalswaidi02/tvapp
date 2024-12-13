@@ -154,5 +154,11 @@
         "link": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
         "source": "iptv",
         "contactpage": "https://yahoo.uservoice.com/forums/382977"
+    },
+    {
+        "channelName": "TRT World",
+        "link": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "source": "iptv",
+        "contactpage": "https://www.trtworld.com/contact"
     }
 ]
