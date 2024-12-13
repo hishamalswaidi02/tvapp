@@ -157,7 +157,7 @@
     },
     {
         "channelName": "TRT World",
-        "link": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "link": "http://maventv.one:8080/live/qyCw0uw8qK1w/bk3cPuY3Ue4D/201939.ts",
         "source": "iptv",
         "contactpage": "https://www.trtworld.com/contact"
     }
